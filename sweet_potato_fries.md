@@ -1,14 +1,14 @@
 # Sweet Potato Fries
 
 ## Ingredients
-1 Sweet Potato
-1tbsp olive oil
-Salt
-Pepper
-Chili powder
-Red pepper flakes
-Garlic powder
-Onion powder
+* 1 Sweet Potato
+* 1tbsp olive oil
+* Salt
+* Pepper
+* Chili powder
+* Red pepper flakes
+* Garlic powder
+* Onion powder
 
 ## Steps
 1. Preheat oven to 375
