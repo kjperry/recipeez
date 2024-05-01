@@ -10,3 +10,6 @@
 
 ## Steps
 1. mix
+
+## Tips
+* When you use this, remember there isn't any salt in it.
