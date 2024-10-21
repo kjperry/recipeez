@@ -14,7 +14,7 @@
 * 1 cup chopped walnuts
 
 ## Steps
-1. Preheat oven to 325 F.
+1. Preheat oven to 375 F.
 1. Sift together flour, salt, baking powder, baking soda, and cinnamon.
 1. Beat together eggs, applesauce, vanilla, and sugar.
 1. Mix wet and dry ingredients.
